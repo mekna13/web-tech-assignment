@@ -1,6 +1,6 @@
 
 
-celebsimgs = ["images/c1.png","images/c2.png","images/c3.png","images/c4.png","images/c5.png","images/c6.png","images/c7.png","images/c8.png","images/c9.png","images/c10.png","images/c11.png","images/c12.png","images/c13.png","images/c14.png","images/c15.png"]
+celebsimgs = ["images/c1.png","images/c2.jpg","images/c3.jpg","images/c4.jpg","images/c5.jpg","images/c6.png","images/c7.png","images/c8.png","images/c9.png","images/c10.png","images/c11.png","images/c12.png","images/c13.png","images/c14.png","images/c15.png"]
 
 
 movieposters=["https://i.pinimg.com/564x/2b/a7/82/2ba7826b7790d1d892d10d821f5b8934.jpg","https://i.pinimg.com/564x/77/9c/83/779c8343d4ca44c2bc452be26cbb0618.jpg","https://i.pinimg.com/564x/fd/46/12/fd461201f44322f79ad4ff2a51ba84e2.jpg","https://i.pinimg.com/564x/25/fa/24/25fa245a047a68a5695d559aca33247e.jpg","https://i.pinimg.com/564x/f3/5b/8e/f35b8eb20dd9ee2f0acf44721421161b.jpg","https://i.pinimg.com/564x/f3/c1/97/f3c19712b1c945ac1b0c26eeeac36374.jpg","https://i.pinimg.com/564x/c0/8c/24/c08c24ea79c83d930432aeddd44d078e.jpg","https://i.pinimg.com/564x/fc/17/e8/fc17e8451518b3bde696c95d583c1ce7.jpg","https://i.pinimg.com/564x/1e/ab/3f/1eab3fd988fdfec8d6ee892427f48a73.jpg"]
