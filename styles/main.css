@@ -1,0 +1,114 @@
+.container{
+    padding: 10px;
+    justify-content: center;
+    max-width: 960px;
+    margin: auto;
+    background-color: #fff0f5;
+}
+
+.panel{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: space-between;
+    margin: 3em;
+}
+.flexitem{
+    margin: 3px;
+    padding: 13px;
+    background-color:#efa8e4;
+    border-radius: 3px;
+    
+}
+button{
+    margin: 3px;
+    padding: 13px;
+    background-color:#efa8e4;
+    border-radius: 3px;
+    font-family: 'Press Start 2P', cursive;
+    color:#fff0f5;
+    border:none;
+    font-size: large;
+
+}
+h3{
+    font-family: 'Press Start 2P', cursive;
+    color:#fff0f5;
+
+}
+h1{
+    color: #97e5ef;
+    text-align: center;
+    font-family: 'Press Start 2P', cursive;
+}
+.wrapper{
+    display: grid;
+    grid-template-columns: 11em 11em 11em 11em 11em;
+    grid-gap: 0.2em;
+
+}
+.box{
+    padding: 0.25em;
+    border-radius: 0.7em;
+}
+h2{
+    color:#fff0f5;
+    font-family: 'Press Start 2P', cursive;
+}
+
+.bg-modal{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(255,255,255,0.7);
+    position: absolute;
+    top:0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.modal-content{
+    width:400px;
+    height:200px ;
+    background-color: #97e5ef;
+    border-radius: 5px;
+    padding: 50px;
+    position: relative;
+    color:white;
+}
+.buttonalign{
+    display: block;
+    margin:0 auto;
+    display: flex;
+    justify-content: center;
+}
+.bg-modal2{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(255,255,255,0.7);
+    position: absolute;
+    top:0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.modal-content2{
+    width:400px;
+    height:260px ;
+    background-color: #97e5ef;
+    border-radius: 5px;
+    padding: 50px;
+    position: relative;
+    color:white;
+}
+.foot{
+    background-color: #efa8e4;
+    width:960px;
+    padding:10px;
+}
+
+h4{
+    font-family: 'Press Start 2P', cursive;
+    color:#fff0f5;
+}
